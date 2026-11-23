@@ -1,0 +1,6 @@
+{
+  "name": "Sanatório Blackwood — Edição PS2",
+  "description": "Exploração de survival horror em primeira pessoa no Sanatório Blackwood (1924) com estilo gráfico PlayStation 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
